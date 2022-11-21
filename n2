@@ -1,7 +1,8 @@
-hi
-welcome
-good morning
-hiiiiiiiiiiiiiiii
-hhhhhhhhh
-jnjnmnmnm
-hhhhhhhhhhh
+echo "hi"
+echo "welcome"
+echo "good morning"
+echo "hiiiiiiiiiiiiiiii"
+echo "hhhhhhhhh"
+echo "jnjnmnmnm"
+echo "hhhhhhhhhhh"
+echo "devops"
