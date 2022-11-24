@@ -6,7 +6,7 @@ pipeline {
         echo 'hello'
       }
     }
-    stage("Deploy-QA') {
+    stage('Deploy-QA') {
           steps {
             echo 'QA'
             input "Does the staging environment look ok?"
